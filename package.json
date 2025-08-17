@@ -12,5 +12,8 @@
     "React"
   ],
   "author": "akshay saini",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
 }
