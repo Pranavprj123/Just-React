@@ -4,8 +4,8 @@
   "description": "Namaste React course",
   "scripts": {
     "test": "jest",
-    "start": "react-scripts start",
-    "build": "react-scripts build"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "keywords": [
     "react",

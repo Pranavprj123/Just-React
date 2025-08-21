@@ -1,21 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-
-const parent = React.createElement("div", {id: "parent"},
-    React.createElement("div", {id: "child1"}, 
-    [React.createElement("h1",{},"This is h1 child element"),
-     React.createElement("h2",{},"This is Namaste React")
-    ]),
-    React.createElement("div", {id: "child2"}, 
-    [React.createElement("h1",{},"This is h1 child element"),
-     React.createElement("h2",{},"This is Namaste React")
-    ]),
-    
- );
-
- console.log(parent);
+//React
 
 
-// const heading = React.createElement("h1", {id: "heading"}, "Hello World from React!");
+//JSX - it is not HTML in JS        it is HTMl like Syntax or XML Syntax
+const jsxHeading = <h1 id="heading">Hello World from JSX!</h1>;
+
+console.log(jsxHeading);
+
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(parent);
+
+root.render(jsxHeading);
