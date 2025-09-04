@@ -31,7 +31,7 @@
 48E:\Namaste-React\node_modules\@parcel\diagnostic133998889311502143 1
 55E:\Namaste-React\node_modules\@swc\helpers\cjs\_jsx.cjs133998889275052416 0
 61E:\Namaste-React\node_modules\caniuse-lite\data\regions\CZ.js133998889298578869 0
-23E:\Namaste-React\App.js134003239136051873 0
+23E:\Namaste-React\App.js134014442109879292 0
 75E:\Namaste-React\node_modules\@parcel\bundler-default\lib\DefaultBundler.js133998889303629820 0
 40E:\Namaste-React\node_modules\nullthrows133998889264953700 1
 59E:\Namaste-React\node_modules\weak-lru-cache\LRFUExpirer.js133998889260298430 0
@@ -44,7 +44,7 @@
 64E:\Namaste-React\node_modules\utility-types\dist\mapped-types.js133998889260883526 0
 70E:\Namaste-React\node_modules\@parcel\reporter-cli\src\bundleReport.js133998889305082878 0
 70E:\Namaste-React\node_modules\type-fest\source\fixed-length-array.d.ts133998889265452041 0
-21E:\Namaste-React\dist134003239138591641 1
+21E:\Namaste-React\dist134014442654389070 1
 90E:\Namaste-React\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\.parcelrc133998889312015621 0
 80E:\Namaste-React\node_modules\caniuse-lite\data\features\document-execcommand.js133998889299708711 0
 59E:\Namaste-React\node_modules\@parcel\markdown-ansi\LICENSE133998889266622127 0
@@ -1884,7 +1884,7 @@
 61E:\Namaste-React\node_modules\caniuse-lite\data\regions\MH.js133998889316666076 0
 94E:\Namaste-React\node_modules\@parcel\workers\test\integration\workerfarm\master-process-id.js133998889278098766 0
 61E:\Namaste-React\node_modules\caniuse-lite\data\regions\MK.js133998889316761533 0
-47E:\Namaste-React\dist\Namaste-React.cb65f72e.js134003239138422969 0
+47E:\Namaste-React\dist\Namaste-React.cb65f72e.js134014442654146397 0
 91E:\Namaste-React\node_modules\@parcel\error-overlay\src\containers\RuntimeErrorContainer.js133998889270813070 0
 82E:\Namaste-React\node_modules\caniuse-lite\data\features\keyboardevent-charcode.js133998889313993827 0
 64E:\Namaste-React\node_modules\@parcel\feature-flags\src\index.js133998889311294210 0
@@ -1983,7 +1983,7 @@
 61E:\Namaste-React\node_modules\caniuse-lite\data\regions\VA.js133998889323146101 0
 61E:\Namaste-React\node_modules\caniuse-lite\data\regions\VE.js133998889323243275 0
 61E:\Namaste-React\node_modules\caniuse-lite\data\regions\VG.js133998889323283368 0
-48E:\Namaste-React\dist\Namaste-React.3a01df49.css134003238908007511 0
+48E:\Namaste-React\dist\Namaste-React.3a01df49.css134006705438563352 0
 61E:\Namaste-React\node_modules\caniuse-lite\data\regions\VI.js133998889323303363 0
 61E:\Namaste-React\node_modules\caniuse-lite\data\regions\VN.js133998889323414271 0
 61E:\Namaste-React\node_modules\caniuse-lite\data\regions\VU.js133998889323424285 0
@@ -2872,7 +2872,7 @@
 69E:\Namaste-React\node_modules\@parcel\runtime-browser-hmr\lib\loaders133998889298052581 1
 54E:\Namaste-React\node_modules\@parcel\transformer-json133998889285800248 1
 61E:\Namaste-React\node_modules\@swc\helpers\cjs\_using_ctx.cjs133998889282445725 0
-51E:\Namaste-React\dist\Namaste-React.cb65f72e.js.map134003239138586564 0
+51E:\Namaste-React\dist\Namaste-React.cb65f72e.js.map134014442654369036 0
 72E:\Namaste-React\node_modules\@swc\helpers\cjs\_wrap_async_generator.cjs133998889282877186 0
 68E:\Namaste-React\node_modules\@swc\helpers\cjs\_write_only_error.cjs133998889283140549 0
 51E:\Namaste-React\node_modules\@swc\counter\index.js133998889258569070 0
@@ -3238,7 +3238,7 @@
 80E:\Namaste-React\node_modules\@parcel\runtime-js\lib\helpers\node\html-loader.js133998889294400323 0
 80E:\Namaste-React\node_modules\@parcel\runtime-js\lib\helpers\node\wasm-loader.js133998889295293754 0
 82E:\Namaste-React\node_modules\@parcel\runtime-js\lib\helpers\browser\css-loader.js133998889293873899 0
-32E:\Namaste-React\dist\index.html134003238908539622 0
+32E:\Namaste-React\dist\index.html134006705438553277 0
 83E:\Namaste-React\node_modules\@parcel\runtime-js\lib\helpers\browser\html-loader.js133998889294268521 0
 87E:\Namaste-React\node_modules\@parcel\runtime-js\lib\helpers\browser\prefetch-loader.js133998889295152581 0
 83E:\Namaste-React\node_modules\@parcel\runtime-js\lib\helpers\browser\wasm-loader.js133998889295272752 0
@@ -3606,7 +3606,7 @@
 61E:\Namaste-React\node_modules\.bin\update-browserslist-db.cmd133998889324870743 0
 61E:\Namaste-React\node_modules\.bin\update-browserslist-db.ps1133998889324870743 0
 51E:\Namaste-React\dist\Namaste-React.3464ddca.js.map133999171802797635 0
-52E:\Namaste-React\dist\Namaste-React.3a01df49.css.map134003238908047695 0
+52E:\Namaste-React\dist\Namaste-React.3a01df49.css.map134006705439664669 0
 47E:\Namaste-React\dist\Namaste-React.44ac345a.js134000037952922644 0
 51E:\Namaste-React\dist\Namaste-React.44ac345a.js.map134000037953062263 0
 51E:\Namaste-React\dist\Namaste-React.6bd02f5a.js.map133999170455334772 0

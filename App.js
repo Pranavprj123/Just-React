@@ -1,29 +1,34 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-//React
 
 
-//JSX - it is not HTML in JS        it is HTMl like Syntax or XML Syntax
-
-
-const title =  (
-    <h1 className="head" tabIndex={1}>
-        Hello World from JSX!
-    </h1>
-);
-
-//React Functional Component
-
-//Component Composition
-const HeadingComponent = () => (
-    <div id="container">
-        {/* Title is the Component Composition */}
-        {title}
-        <h1 className="header">Hello World from Functional Component!</h1>
+const Header = () => {
+return(
+    <div className="header">
+        <div className="logo-container">
+            <img className="logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_71V8bNjZBVaFTbgsxq87XrXdi8UjSq5neA&s" alt="Logo" />
+        </div>
+        <div className="nav-items">
+            <ul>
+                <li>Home</li>
+                <li>About Us</li>
+                <li>Contact Us</li>
+                <li>Cart</li>
+            </ul>
+        </div>
     </div>
-);
+)
+}
+
+const AppLayout = () => {
+    return (
+        <div className="app">
+            <Header />
+        </div>
+    )
+}
 
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
-root.render(<HeadingComponent />);
+root.render(<AppLayout />);
